@@ -1,0 +1,13 @@
+ogbench
+jax[cuda12] >= 0.4.26
+flax >= 0.8.4
+optax
+ml_collections
+gymnasium
+numpy
+matplotlib
+imageio
+imageio-ffmpeg
+pillow
+ipykernel
+nbconvert
