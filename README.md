@@ -24,7 +24,7 @@ PathBridger research codebase; here we keep only what is needed to *run* the IDM
 | Presentation slides | https://drive.google.com/file/d/1NA7Dv9fKVhcGJRXG9ldH9bQMRTZwykkp/view?usp=drive_link |
 | Report | https://drive.google.com/file/d/1w49Atxus9OucPWTQ2wb5WTKNdWf0U-C3/view?usp=drive_link |
 | Dataset | https://drive.google.com/drive/folders/1A3vJx4yImA0S7pFlx9TY76koLxSardWO?usp=drive_link |
-| Demo video | https://drive.google.com/file/d/1N3qTMzmxBb8HlqbJRn6xSoO9KL8I15Ou/view?usp=drive_link |
+| Demo video | https://drive.google.com/drive/folders/1VMgUiczm3jaFYt94v6I5tH4P0rQdGy3d?usp=drive_link |
 
 ## How to run
 
